@@ -1,0 +1,17 @@
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Application.deps.json
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Application.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Application.pdb
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Domain.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Shared.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Domain.pdb
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\bin\Debug\net10.0\IAMCore.Shared.pdb
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.csproj.AssemblyReference.cache
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.AssemblyInfoInputs.cache
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.AssemblyInfo.cs
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore..CFEFEF8E.Up2Date
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\refint\IAMCore.Application.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\IAMCore.Application.pdb
+C:\Users\ayush\IAM\IAMCore\IAMCore.Application\obj\Debug\net10.0\ref\IAMCore.Application.dll

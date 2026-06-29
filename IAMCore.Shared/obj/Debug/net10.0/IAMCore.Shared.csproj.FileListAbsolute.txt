@@ -1,0 +1,11 @@
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\bin\Debug\net10.0\IAMCore.Shared.deps.json
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\bin\Debug\net10.0\IAMCore.Shared.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\bin\Debug\net10.0\IAMCore.Shared.pdb
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\IAMCore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\IAMCore.Shared.AssemblyInfoInputs.cache
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\IAMCore.Shared.AssemblyInfo.cs
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\IAMCore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\IAMCore.Shared.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\refint\IAMCore.Shared.dll
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\IAMCore.Shared.pdb
+C:\Users\ayush\IAM\IAMCore\IAMCore.Shared\obj\Debug\net10.0\ref\IAMCore.Shared.dll
